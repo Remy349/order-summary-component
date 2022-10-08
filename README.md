@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Order summary component](https://remy349.github.io/order-summary-component/)
 
 ## My process
 
@@ -37,5 +37,6 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Remy349](https://www.frontendmentor.io/profile/Remy349)
 
+### Developed by Santiago de Jesús Moraga Caldera - Remy349(GitHub)
